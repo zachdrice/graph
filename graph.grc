@@ -430,10 +430,10 @@ blocks:
     color8: '0'
     color9: '0'
     comment: ''
-    fc: '0'
+    fc: 2.4E9
     fftsize: '1024'
     freqhalf: 'True'
-    grid: 'False'
+    grid: 'True'
     gui_hint: ''
     int_max: '10'
     int_min: '-140'
@@ -455,7 +455,7 @@ blocks:
     showports: 'False'
     type: complex
     update_time: '0.10'
-    wintype: window.WIN_BLACKMAN_hARRIS
+    wintype: window.WIN_RECTANGULAR
   states:
     bus_sink: false
     bus_source: false

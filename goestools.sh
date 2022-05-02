@@ -18,7 +18,7 @@
 
 # sudo reboot
 
-rtl_test
+# rtl_test
 
 git clone https://github.com/pietern/goestools.git
 cd goestools

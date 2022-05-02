@@ -1,7 +1,7 @@
-sudo apt update
-sudo apt dist-upgrade
+# sudo apt update
+# sudo apt dist-upgrade
 
-sudo reboot
+# sudo reboot
 
 sudo apt install git build-essential cmake libusb-1.0 libopencv-dev libproj-dev
 
